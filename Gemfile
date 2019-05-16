@@ -71,3 +71,6 @@ end
 gem 'devise'
 
 gem 'omniauth'
+
+gem 'bootstrap'
+gem 'jquery-rails'
