@@ -65,4 +65,7 @@ gem 'pry-rails'    # rails cの対話式コンソールがirbの代わりにリ�
   gem 'binding_of_caller' # 開発中のエラー画面にさらに変数の値を表示する
   gem 'awesome_print'     # Rubyオブジェクトに色をつけて表示して見やすくなる
 
+
 end
+
+gem 'devise'
