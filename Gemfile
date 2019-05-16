@@ -69,3 +69,5 @@ gem 'pry-rails'    # rails cの対話式コンソールがirbの代わりにリ�
 end
 
 gem 'devise'
+
+gem 'omniauth'
